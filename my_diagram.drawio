@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T15:59:57.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="DzxsBjGSwgdnfN_ltNAs" version="16.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-02T16:05:12.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="kBi_-WTYtEjizrJbmSP-" version="16.5.3" type="github" pages="2">
   <diagram id="IgRb1DB01d69xYN1L0HE" name="AsIs-Today">
     <mxGraphModel dx="1422" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -370,6 +370,21 @@
             <mxPoint x="1050" y="183" as="sourcePoint" />
             <mxPoint x="1100" y="133" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="veuC6dvG3FYWzKbr4Uq3-4" value="" style="group" vertex="1" connectable="0" parent="iT0lIUHC8wMH6gTaKenC-1">
+          <mxGeometry x="46" y="710" width="164" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="veuC6dvG3FYWzKbr4Uq3-3" value="&lt;b&gt;Agenda&lt;/b&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="veuC6dvG3FYWzKbr4Uq3-4">
+          <mxGeometry width="164" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="veuC6dvG3FYWzKbr4Uq3-0" value="local files" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="veuC6dvG3FYWzKbr4Uq3-4">
+          <mxGeometry x="12.68041237113402" y="12.483870967741936" width="25.36082474226804" height="34.60529032258064" as="geometry" />
+        </mxCell>
+        <mxCell id="veuC6dvG3FYWzKbr4Uq3-1" value="FTP" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="veuC6dvG3FYWzKbr4Uq3-4">
+          <mxGeometry x="12.68041237113402" y="54.09677419354839" width="25.36082474226804" height="33.16548387096774" as="geometry" />
+        </mxCell>
+        <mxCell id="veuC6dvG3FYWzKbr4Uq3-2" value="SOAP" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="veuC6dvG3FYWzKbr4Uq3-4">
+          <mxGeometry y="95.70967741935485" width="50.72164948453608" height="24.967741935483872" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
