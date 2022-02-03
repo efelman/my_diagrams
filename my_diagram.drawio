@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T15:50:45.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Urjswc4DYdHU2H-E681I" version="16.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-03T15:56:37.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="XOIei2o5hi3tLdbMyXAp" version="16.5.3" type="github" pages="4">
   <diagram id="IgRb1DB01d69xYN1L0HE" name="AsIs-Today">
     <mxGraphModel dx="2324" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -445,10 +445,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ltUzZE16j2-Hl_oyafxI-75" value="FTP" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFFFFF;strokeColor=#2E849E;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
-          <mxGeometry x="789" y="234" width="29.64" height="33.17" as="geometry" />
+          <mxGeometry x="789" y="269" width="29.64" height="33.17" as="geometry" />
         </mxCell>
         <mxCell id="ltUzZE16j2-Hl_oyafxI-78" value="SOAP" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#2E849E;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
-          <mxGeometry x="719" y="253.99967741935484" width="50.72164948453608" height="24.967741935483872" as="geometry" />
+          <mxGeometry x="724" y="259.99967741935484" width="50.72164948453608" height="24.967741935483872" as="geometry" />
         </mxCell>
         <mxCell id="E65NutEG7mdtxHij9BbL-10" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
           <mxGeometry x="9" y="364.57000000000005" width="220" height="150" as="geometry" />
@@ -520,7 +520,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D3L6xrGDJzfFdGrePs61-10" value="&lt;font color=&quot;#0a0a0a&quot; style=&quot;font-size: 12px&quot;&gt;REST&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FFFFFF;strokeColor=#2E849E;fillColor=none;align=left;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
-          <mxGeometry x="724.36" y="294" width="40" height="36.49" as="geometry" />
+          <mxGeometry x="733.36" y="294" width="40" height="36.49" as="geometry" />
         </mxCell>
         <mxCell id="D3L6xrGDJzfFdGrePs61-7" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=default;fillColor=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ltUzZE16j2-Hl_oyafxI-1" target="D3L6xrGDJzfFdGrePs61-6">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -569,6 +569,9 @@
         </mxCell>
         <mxCell id="D3L6xrGDJzfFdGrePs61-25" value="Chargement pieces pour OP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=-30;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
           <mxGeometry x="563" y="153" width="125.11" height="41.92" as="geometry" />
+        </mxCell>
+        <mxCell id="D3L6xrGDJzfFdGrePs61-26" value="Chargement des extraits bancaires" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=-45;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
+          <mxGeometry x="467" y="96.54" width="125.11" height="41.92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
