@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T15:56:37.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="XOIei2o5hi3tLdbMyXAp" version="16.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-04T08:37:31.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="T2otC5u__08e1ZYr2wZO" version="16.5.3" type="github" pages="4">
   <diagram id="IgRb1DB01d69xYN1L0HE" name="AsIs-Today">
-    <mxGraphModel dx="2324" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1920" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iT0lIUHC8wMH6gTaKenC-0" />
         <mxCell id="iT0lIUHC8wMH6gTaKenC-1" parent="iT0lIUHC8wMH6gTaKenC-0" />
@@ -380,7 +380,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ToBe-Overview" id="DCUwiGnGqsxfFn3Z5A32">
-    <mxGraphModel dx="1778" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ltUzZE16j2-Hl_oyafxI-0" />
         <mxCell id="ltUzZE16j2-Hl_oyafxI-1" parent="ltUzZE16j2-Hl_oyafxI-0" />
@@ -391,7 +391,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ltUzZE16j2-Hl_oyafxI-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;To-BE&lt;b&gt;&amp;nbsp;overview&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#314354;fillColor=#647687;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
-          <mxGeometry x="10" y="10" width="150" height="30" as="geometry" />
+          <mxGeometry x="5" y="-40" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ltUzZE16j2-Hl_oyafxI-13" value="&lt;font color=&quot;#ffffff&quot;&gt;IGF-BAF&lt;/font&gt;" style="dashed=0;html=1;rounded=1;fillColor=#2E849E;strokeColor=#FF3333;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#42526E" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
           <mxGeometry x="269" y="12" width="100" height="50" as="geometry" />
@@ -543,7 +543,7 @@
         <mxCell id="ltUzZE16j2-Hl_oyafxI-9" value="&lt;b&gt;SAP Middleware&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-4">
           <mxGeometry x="18.97018970189702" y="126" width="95.84688346883468" height="16.86" as="geometry" />
         </mxCell>
-        <mxCell id="D3L6xrGDJzfFdGrePs61-13" value="Chargement ecritures de paie&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=75;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
+        <mxCell id="D3L6xrGDJzfFdGrePs61-13" value="Loading Payroll Entries" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=75;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
           <mxGeometry x="455.44" y="422" width="115" height="49.62" as="geometry" />
         </mxCell>
         <mxCell id="D3L6xrGDJzfFdGrePs61-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;shadow=0;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=default;fillColor=#FFD966;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ltUzZE16j2-Hl_oyafxI-1" target="ltUzZE16j2-Hl_oyafxI-15">
@@ -552,26 +552,29 @@
             <mxPoint x="329" y="399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D3L6xrGDJzfFdGrePs61-15" value="Chargement donnees SIGEP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=20;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
+        <mxCell id="D3L6xrGDJzfFdGrePs61-15" value="Loading SIGEP data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=20;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
           <mxGeometry x="255" y="474.38" width="149.96" height="49.62" as="geometry" />
         </mxCell>
-        <mxCell id="D3L6xrGDJzfFdGrePs61-16" value="Chargement ecritures budgetaires et comptables SIFIN3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=-15;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
+        <mxCell id="D3L6xrGDJzfFdGrePs61-16" value="Loading budgetary and accounting entries SIFIN3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=-15;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
           <mxGeometry x="259.68" y="391.86" width="189.83" height="49.62" as="geometry" />
         </mxCell>
-        <mxCell id="D3L6xrGDJzfFdGrePs61-17" value="MaJ donnees agents Etat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=0;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
+        <mxCell id="D3L6xrGDJzfFdGrePs61-17" value="Update state agent data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=0;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
           <mxGeometry x="616" y="598" width="111.64" height="49.62" as="geometry" />
         </mxCell>
-        <mxCell id="D3L6xrGDJzfFdGrePs61-19" value="Chargement du budget" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=45;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
-          <mxGeometry x="279.84999999999997" y="118" width="125.11" height="41.92" as="geometry" />
+        <mxCell id="D3L6xrGDJzfFdGrePs61-19" value="Budget loading" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=45;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
+          <mxGeometry x="287.84999999999997" y="118" width="125.11" height="41.92" as="geometry" />
         </mxCell>
-        <mxCell id="D3L6xrGDJzfFdGrePs61-20" value="Creation INE &amp;amp; MaJ signaletique des PP&amp;amp;PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=0;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
-          <mxGeometry x="369" y="40" width="79.56" height="144" as="geometry" />
+        <mxCell id="D3L6xrGDJzfFdGrePs61-20" value="Creation INE &amp;amp; MaJ updates from PP&amp;amp;PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=0;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
+          <mxGeometry x="381" y="40" width="67.56" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="D3L6xrGDJzfFdGrePs61-25" value="Chargement pieces pour OP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=-30;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
+        <mxCell id="D3L6xrGDJzfFdGrePs61-25" value="Loading parts for OP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=-30;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
           <mxGeometry x="563" y="153" width="125.11" height="41.92" as="geometry" />
         </mxCell>
-        <mxCell id="D3L6xrGDJzfFdGrePs61-26" value="Chargement des extraits bancaires" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=-45;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
+        <mxCell id="D3L6xrGDJzfFdGrePs61-26" value="Loading of bank statements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=-45;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
           <mxGeometry x="467" y="96.54" width="125.11" height="41.92" as="geometry" />
+        </mxCell>
+        <mxCell id="HplBxJDRfDeDOJuglCjq-0" value="Master data sync" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0A0A0A;rotation=-30;" vertex="1" parent="ltUzZE16j2-Hl_oyafxI-1">
+          <mxGeometry x="573" y="163" width="125.11" height="41.92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -967,7 +970,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5fAsMWDMKkvmbgIe2Mtu" name="ToBe-Tomorrow">
-    <mxGraphModel dx="1874" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
