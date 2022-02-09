@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T16:54:36.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="rKxwYEy4FeGxDQUI88s9" version="16.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-09T09:23:56.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="DT9rlnObJrLdikqCMfld" version="16.5.3" type="github" pages="6">
   <diagram name="ToBe-FunctionalOverview" id="DCUwiGnGqsxfFn3Z5A32">
-    <mxGraphModel dx="1490" dy="985" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2129" dy="1236" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ltUzZE16j2-Hl_oyafxI-0" />
         <mxCell id="ltUzZE16j2-Hl_oyafxI-1" parent="ltUzZE16j2-Hl_oyafxI-0" />
@@ -462,7 +462,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IgRb1DB01d69xYN1L0HE" name="AsIs-Detailed">
-    <mxGraphModel dx="2692" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2263" dy="731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iT0lIUHC8wMH6gTaKenC-0" />
         <mxCell id="iT0lIUHC8wMH6gTaKenC-1" parent="iT0lIUHC8wMH6gTaKenC-0" />
@@ -718,7 +718,7 @@
         <mxCell id="b0zYId36T3ry-KMkJPRl-0" value="&lt;font color=&quot;#ffffff&quot;&gt;Agriculture&lt;/font&gt;" style="dashed=0;html=1;rounded=1;fillColor=#2E849E;strokeColor=#FF3333;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#42526E" parent="iT0lIUHC8wMH6gTaKenC-1" vertex="1">
           <mxGeometry x="769.9999999999999" y="79.4" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_zZOIsBA-a_IBeChxWFm-0" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.952;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="iT0lIUHC8wMH6gTaKenC-1" source="b0zYId36T3ry-KMkJPRl-0" target="YE_x1AWRKmJieqS-VoWf-0" edge="1">
+        <mxCell id="_zZOIsBA-a_IBeChxWFm-0" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.967;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" parent="iT0lIUHC8wMH6gTaKenC-1" source="b0zYId36T3ry-KMkJPRl-0" target="YE_x1AWRKmJieqS-VoWf-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="766" y="210" as="sourcePoint" />
             <mxPoint x="717" y="295" as="targetPoint" />
@@ -938,7 +938,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ToBE-Detailed" id="NB7yWLG3pmBRoWB2dpuc">
-    <mxGraphModel dx="2529" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2883" dy="975" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TOxcSu-X_P1KjCrsneyi-0" />
         <mxCell id="TOxcSu-X_P1KjCrsneyi-1" parent="TOxcSu-X_P1KjCrsneyi-0" />
